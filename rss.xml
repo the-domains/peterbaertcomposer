@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[peterbaertcomposer]]></title>
+        <description><![CDATA[peterbaertcomposer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 18:31:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Filipa </p>]]></description>
+            <link>undefined7368bf0e-d412-444f-b2fd-70019123f441/index.html</link>
+            <guid isPermaLink="false">7368bf0e-d412-444f-b2fd-70019123f441</guid>
+            <pubDate>Sun, 13 Mar 2016 18:31:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
