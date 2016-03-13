@@ -1,7 +1,7 @@
 name: peterbaertcomposer
 favicon: null
 layout_spectrum: 0.17882
-typography_spectrum: 0.8573744075838476
+typography_spectrum: 0.47383
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.375
   lightness: 0.7672238261438906
   saturation: 0.9378305154386908
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
