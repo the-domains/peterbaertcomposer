@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[peterbaertcomposer]]></title>
         <description><![CDATA[peterbaertcomposer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peterbaertcomposer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 18:31:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 18:56:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peterbaertcomposer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filipa by Peter Baert composer]]></title>
+            <description><![CDATA[<article><h1>Filipa by Peter Baert composer</h1><p>To celebrate the birth of our daughter Filipa, I've composed this little track, based on chance. Welcome in our heart Filipa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21b4fb6502c11806a70269e34980d1796b5741d.jpg"></article>]]></description>
+            <link>https://soundcloud.com/peterbaertcomposer/filipa?utm_source=soundcloud&amp;utm_campaign=share&amp;utm_medium=twitter</link>
+            <guid isPermaLink="false">eeb3f592-6df6-4263-9d4d-bc1ef195f5cd</guid>
+            <pubDate>Sun, 13 Mar 2016 18:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Filipa </p>]]></description>
-            <link>undefined7368bf0e-d412-444f-b2fd-70019123f441/index.html</link>
+            <link>https://thegrid.ai/peterbaertcomposer/7368bf0e-d412-444f-b2fd-70019123f441/index.html</link>
             <guid isPermaLink="false">7368bf0e-d412-444f-b2fd-70019123f441</guid>
             <pubDate>Sun, 13 Mar 2016 18:31:21 GMT</pubDate>
         </item>
